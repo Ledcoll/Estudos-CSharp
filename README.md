@@ -1,2 +1,2 @@
 # Coleta-de-dados---ALPHA
-Registro de um dos primeiros projetos que criei aprendendo C# fora do Unity.
+Projetos de estudos de programação, feitos com base nas plataformas: Udemy e Alura.
