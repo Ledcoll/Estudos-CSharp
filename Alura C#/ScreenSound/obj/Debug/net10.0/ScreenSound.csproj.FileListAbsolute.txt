@@ -1,0 +1,28 @@
+d:\Área de Trabalho\ScreenSound\ScreenSound\bin\Debug\net10.0\ScreenSound.exe
+d:\Área de Trabalho\ScreenSound\ScreenSound\bin\Debug\net10.0\ScreenSound.deps.json
+d:\Área de Trabalho\ScreenSound\ScreenSound\bin\Debug\net10.0\ScreenSound.runtimeconfig.json
+d:\Área de Trabalho\ScreenSound\ScreenSound\bin\Debug\net10.0\ScreenSound.dll
+d:\Área de Trabalho\ScreenSound\ScreenSound\bin\Debug\net10.0\ScreenSound.pdb
+d:\Área de Trabalho\ScreenSound\ScreenSound\obj\Debug\net10.0\ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+d:\Área de Trabalho\ScreenSound\ScreenSound\obj\Debug\net10.0\ScreenSound.AssemblyInfoInputs.cache
+d:\Área de Trabalho\ScreenSound\ScreenSound\obj\Debug\net10.0\ScreenSound.AssemblyInfo.cs
+d:\Área de Trabalho\ScreenSound\ScreenSound\obj\Debug\net10.0\ScreenSound.csproj.CoreCompileInputs.cache
+d:\Área de Trabalho\ScreenSound\ScreenSound\obj\Debug\net10.0\ScreenSound.dll
+d:\Área de Trabalho\ScreenSound\ScreenSound\obj\Debug\net10.0\refint\ScreenSound.dll
+d:\Área de Trabalho\ScreenSound\ScreenSound\obj\Debug\net10.0\ScreenSound.pdb
+d:\Área de Trabalho\ScreenSound\ScreenSound\obj\Debug\net10.0\ScreenSound.genruntimeconfig.cache
+d:\Área de Trabalho\ScreenSound\ScreenSound\obj\Debug\net10.0\ref\ScreenSound.dll
+D:\Área de Trabalho\Alura C#\ScreenSound\bin\Debug\net10.0\ScreenSound.exe
+D:\Área de Trabalho\Alura C#\ScreenSound\bin\Debug\net10.0\ScreenSound.deps.json
+D:\Área de Trabalho\Alura C#\ScreenSound\bin\Debug\net10.0\ScreenSound.runtimeconfig.json
+D:\Área de Trabalho\Alura C#\ScreenSound\bin\Debug\net10.0\ScreenSound.dll
+D:\Área de Trabalho\Alura C#\ScreenSound\bin\Debug\net10.0\ScreenSound.pdb
+D:\Área de Trabalho\Alura C#\ScreenSound\obj\Debug\net10.0\ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+D:\Área de Trabalho\Alura C#\ScreenSound\obj\Debug\net10.0\ScreenSound.AssemblyInfoInputs.cache
+D:\Área de Trabalho\Alura C#\ScreenSound\obj\Debug\net10.0\ScreenSound.AssemblyInfo.cs
+D:\Área de Trabalho\Alura C#\ScreenSound\obj\Debug\net10.0\ScreenSound.csproj.CoreCompileInputs.cache
+D:\Área de Trabalho\Alura C#\ScreenSound\obj\Debug\net10.0\ScreenSound.dll
+D:\Área de Trabalho\Alura C#\ScreenSound\obj\Debug\net10.0\refint\ScreenSound.dll
+D:\Área de Trabalho\Alura C#\ScreenSound\obj\Debug\net10.0\ScreenSound.pdb
+D:\Área de Trabalho\Alura C#\ScreenSound\obj\Debug\net10.0\ScreenSound.genruntimeconfig.cache
+D:\Área de Trabalho\Alura C#\ScreenSound\obj\Debug\net10.0\ref\ScreenSound.dll
